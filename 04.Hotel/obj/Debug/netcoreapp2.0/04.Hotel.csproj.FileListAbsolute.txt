@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\bin\Debug\netcoreapp2.0\04.Hotel.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.Hotel\obj\Debug\netcoreapp2.0\04.Hotel.pdb

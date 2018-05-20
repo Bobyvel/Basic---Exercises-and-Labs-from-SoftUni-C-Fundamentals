@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\bin\Debug\netcoreapp2.0\09.CountTheIntegers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\bin\Debug\netcoreapp2.0\09.CountTheIntegers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\bin\Debug\netcoreapp2.0\09.CountTheIntegers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\bin\Debug\netcoreapp2.0\09.CountTheIntegers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\bin\Debug\netcoreapp2.0\09.CountTheIntegers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\obj\Debug\netcoreapp2.0\09.CountTheIntegers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\obj\Debug\netcoreapp2.0\09.CountTheIntegers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\obj\Debug\netcoreapp2.0\09.CountTheIntegers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\obj\Debug\netcoreapp2.0\09.CountTheIntegers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.CountTheIntegers\obj\Debug\netcoreapp2.0\09.CountTheIntegers.pdb

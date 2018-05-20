@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\bin\Debug\netcoreapp2.0\15.NeighbourWars.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\bin\Debug\netcoreapp2.0\15.NeighbourWars.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\bin\Debug\netcoreapp2.0\15.NeighbourWars.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\bin\Debug\netcoreapp2.0\15.NeighbourWars.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\bin\Debug\netcoreapp2.0\15.NeighbourWars.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\obj\Debug\netcoreapp2.0\15.NeighbourWars.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\obj\Debug\netcoreapp2.0\15.NeighbourWars.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\obj\Debug\netcoreapp2.0\15.NeighbourWars.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\obj\Debug\netcoreapp2.0\15.NeighbourWars.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\obj\Debug\netcoreapp2.0\15.NeighbourWars.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\15.NeighbourWars\obj\Debug\netcoreapp2.0\15.NeighbourWars.pdb

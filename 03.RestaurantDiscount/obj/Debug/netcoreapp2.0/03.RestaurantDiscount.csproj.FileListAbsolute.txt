@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\bin\Debug\netcoreapp2.0\03.RestaurantDiscount.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\bin\Debug\netcoreapp2.0\03.RestaurantDiscount.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\bin\Debug\netcoreapp2.0\03.RestaurantDiscount.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\bin\Debug\netcoreapp2.0\03.RestaurantDiscount.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\bin\Debug\netcoreapp2.0\03.RestaurantDiscount.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\obj\Debug\netcoreapp2.0\03.RestaurantDiscount.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\obj\Debug\netcoreapp2.0\03.RestaurantDiscount.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\obj\Debug\netcoreapp2.0\03.RestaurantDiscount.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\obj\Debug\netcoreapp2.0\03.RestaurantDiscount.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\obj\Debug\netcoreapp2.0\03.RestaurantDiscount.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.RestaurantDiscount\obj\Debug\netcoreapp2.0\03.RestaurantDiscount.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\bin\Debug\netcoreapp2.0\03.BackIn30Minutes.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\bin\Debug\netcoreapp2.0\03.BackIn30Minutes.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\bin\Debug\netcoreapp2.0\03.BackIn30Minutes.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\bin\Debug\netcoreapp2.0\03.BackIn30Minutes.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\bin\Debug\netcoreapp2.0\03.BackIn30Minutes.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\obj\Debug\netcoreapp2.0\03.BackIn30Minutes.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\obj\Debug\netcoreapp2.0\03.BackIn30Minutes.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\obj\Debug\netcoreapp2.0\03.BackIn30Minutes.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\obj\Debug\netcoreapp2.0\03.BackIn30Minutes.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\obj\Debug\netcoreapp2.0\03.BackIn30Minutes.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.BackIn30Minutes\obj\Debug\netcoreapp2.0\03.BackIn30Minutes.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\bin\Debug\netcoreapp2.0\13.GameNumbers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\bin\Debug\netcoreapp2.0\13.GameNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\bin\Debug\netcoreapp2.0\13.GameNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\bin\Debug\netcoreapp2.0\13.GameNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\bin\Debug\netcoreapp2.0\13.GameNumbers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\obj\Debug\netcoreapp2.0\13.GameNumbers.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\obj\Debug\netcoreapp2.0\13.GameNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\obj\Debug\netcoreapp2.0\13.GameNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\obj\Debug\netcoreapp2.0\13.GameNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\obj\Debug\netcoreapp2.0\13.GameNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\13.GameNumbers\obj\Debug\netcoreapp2.0\13.GameNumbers.pdb

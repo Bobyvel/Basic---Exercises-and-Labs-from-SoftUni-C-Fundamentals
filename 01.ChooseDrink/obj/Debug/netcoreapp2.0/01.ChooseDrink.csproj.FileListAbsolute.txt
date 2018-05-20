@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\bin\Debug\netcoreapp2.0\01.ChooseDrink.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\bin\Debug\netcoreapp2.0\01.ChooseDrink.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\bin\Debug\netcoreapp2.0\01.ChooseDrink.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\bin\Debug\netcoreapp2.0\01.ChooseDrink.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\bin\Debug\netcoreapp2.0\01.ChooseDrink.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\obj\Debug\netcoreapp2.0\01.ChooseDrink.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\obj\Debug\netcoreapp2.0\01.ChooseDrink.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\obj\Debug\netcoreapp2.0\01.ChooseDrink.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\obj\Debug\netcoreapp2.0\01.ChooseDrink.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\obj\Debug\netcoreapp2.0\01.ChooseDrink.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.ChooseDrink\obj\Debug\netcoreapp2.0\01.ChooseDrink.pdb

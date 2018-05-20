@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\bin\Debug\netcoreapp2.0\05.BPMCounter.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\bin\Debug\netcoreapp2.0\05.BPMCounter.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\bin\Debug\netcoreapp2.0\05.BPMCounter.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\bin\Debug\netcoreapp2.0\05.BPMCounter.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\bin\Debug\netcoreapp2.0\05.BPMCounter.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\obj\Debug\netcoreapp2.0\05.BPMCounter.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\obj\Debug\netcoreapp2.0\05.BPMCounter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\obj\Debug\netcoreapp2.0\05.BPMCounter.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\obj\Debug\netcoreapp2.0\05.BPMCounter.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\obj\Debug\netcoreapp2.0\05.BPMCounter.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.BPMCounter\obj\Debug\netcoreapp2.0\05.BPMCounter.pdb

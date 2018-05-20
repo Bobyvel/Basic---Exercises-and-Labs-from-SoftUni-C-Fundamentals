@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\bin\Debug\netcoreapp2.0\08.CaloriesCounter.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\bin\Debug\netcoreapp2.0\08.CaloriesCounter.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\bin\Debug\netcoreapp2.0\08.CaloriesCounter.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\bin\Debug\netcoreapp2.0\08.CaloriesCounter.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\bin\Debug\netcoreapp2.0\08.CaloriesCounter.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\obj\Debug\netcoreapp2.0\08.CaloriesCounter.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\obj\Debug\netcoreapp2.0\08.CaloriesCounter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\obj\Debug\netcoreapp2.0\08.CaloriesCounter.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\obj\Debug\netcoreapp2.0\08.CaloriesCounter.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\obj\Debug\netcoreapp2.0\08.CaloriesCounter.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.CaloriesCounter\obj\Debug\netcoreapp2.0\08.CaloriesCounter.pdb

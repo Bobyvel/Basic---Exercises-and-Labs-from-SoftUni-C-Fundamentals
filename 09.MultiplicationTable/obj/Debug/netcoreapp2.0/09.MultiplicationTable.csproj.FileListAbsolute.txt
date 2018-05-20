@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\bin\Debug\netcoreapp2.0\09.MultiplicationTable.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\bin\Debug\netcoreapp2.0\09.MultiplicationTable.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\bin\Debug\netcoreapp2.0\09.MultiplicationTable.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\bin\Debug\netcoreapp2.0\09.MultiplicationTable.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\bin\Debug\netcoreapp2.0\09.MultiplicationTable.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\obj\Debug\netcoreapp2.0\09.MultiplicationTable.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\obj\Debug\netcoreapp2.0\09.MultiplicationTable.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\obj\Debug\netcoreapp2.0\09.MultiplicationTable.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\obj\Debug\netcoreapp2.0\09.MultiplicationTable.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\09.MultiplicationTable\obj\Debug\netcoreapp2.0\09.MultiplicationTable.pdb

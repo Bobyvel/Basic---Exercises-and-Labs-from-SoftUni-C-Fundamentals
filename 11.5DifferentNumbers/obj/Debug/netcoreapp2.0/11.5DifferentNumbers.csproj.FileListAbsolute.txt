@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\bin\Debug\netcoreapp2.0\11.5DifferentNumbers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\bin\Debug\netcoreapp2.0\11.5DifferentNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\bin\Debug\netcoreapp2.0\11.5DifferentNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\bin\Debug\netcoreapp2.0\11.5DifferentNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\bin\Debug\netcoreapp2.0\11.5DifferentNumbers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\obj\Debug\netcoreapp2.0\11.5DifferentNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\obj\Debug\netcoreapp2.0\11.5DifferentNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\obj\Debug\netcoreapp2.0\11.5DifferentNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\obj\Debug\netcoreapp2.0\11.5DifferentNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.5DifferentNumbers\obj\Debug\netcoreapp2.0\11.5DifferentNumbers.pdb

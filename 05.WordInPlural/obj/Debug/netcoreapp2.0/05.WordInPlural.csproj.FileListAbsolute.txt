@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\bin\Debug\netcoreapp2.0\05.WordInPlural.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\bin\Debug\netcoreapp2.0\05.WordInPlural.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\bin\Debug\netcoreapp2.0\05.WordInPlural.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\bin\Debug\netcoreapp2.0\05.WordInPlural.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\bin\Debug\netcoreapp2.0\05.WordInPlural.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\obj\Debug\netcoreapp2.0\05.WordInPlural.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\obj\Debug\netcoreapp2.0\05.WordInPlural.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\obj\Debug\netcoreapp2.0\05.WordInPlural.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\obj\Debug\netcoreapp2.0\05.WordInPlural.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\obj\Debug\netcoreapp2.0\05.WordInPlural.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.WordInPlural\obj\Debug\netcoreapp2.0\05.WordInPlural.pdb

@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\bin\Debug\netcoreapp2.0\04.BeverageLabels.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\bin\Debug\netcoreapp2.0\04.BeverageLabels.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\bin\Debug\netcoreapp2.0\04.BeverageLabels.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\bin\Debug\netcoreapp2.0\04.BeverageLabels.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\bin\Debug\netcoreapp2.0\04.BeverageLabels.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\obj\Debug\netcoreapp2.0\04.BeverageLabels.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\obj\Debug\netcoreapp2.0\04.BeverageLabels.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\obj\Debug\netcoreapp2.0\04.BeverageLabels.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\obj\Debug\netcoreapp2.0\04.BeverageLabels.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.BeverageLabels\obj\Debug\netcoreapp2.0\04.BeverageLabels.pdb

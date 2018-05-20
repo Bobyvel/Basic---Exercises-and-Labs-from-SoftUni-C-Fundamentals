@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\bin\Debug\netcoreapp2.0\03.MilesToKilometers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\bin\Debug\netcoreapp2.0\03.MilesToKilometers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\bin\Debug\netcoreapp2.0\03.MilesToKilometers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\bin\Debug\netcoreapp2.0\03.MilesToKilometers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\bin\Debug\netcoreapp2.0\03.MilesToKilometers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\obj\Debug\netcoreapp2.0\03.MilesToKilometers.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\obj\Debug\netcoreapp2.0\03.MilesToKilometers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\obj\Debug\netcoreapp2.0\03.MilesToKilometers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\obj\Debug\netcoreapp2.0\03.MilesToKilometers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\obj\Debug\netcoreapp2.0\03.MilesToKilometers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.MilesToKilometers\obj\Debug\netcoreapp2.0\03.MilesToKilometers.pdb

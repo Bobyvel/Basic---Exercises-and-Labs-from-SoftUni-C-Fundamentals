@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\bin\Debug\netcoreapp2.0\11.OddNumber.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\11.OddNumber\obj\Debug\netcoreapp2.0\11.OddNumber.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\bin\Debug\netcoreapp2.0\01.Passed.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\bin\Debug\netcoreapp2.0\01.Passed.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\bin\Debug\netcoreapp2.0\01.Passed.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\bin\Debug\netcoreapp2.0\01.Passed.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\bin\Debug\netcoreapp2.0\01.Passed.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\obj\Debug\netcoreapp2.0\01.Passed.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\obj\Debug\netcoreapp2.0\01.Passed.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\obj\Debug\netcoreapp2.0\01.Passed.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\obj\Debug\netcoreapp2.0\01.Passed.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\obj\Debug\netcoreapp2.0\01.Passed.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Passed\obj\Debug\netcoreapp2.0\01.Passed.pdb

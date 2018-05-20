@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\bin\Debug\netcoreapp2.0\06.TheatrPmotion.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\bin\Debug\netcoreapp2.0\06.TheatrPmotion.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\bin\Debug\netcoreapp2.0\06.TheatrPmotion.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\bin\Debug\netcoreapp2.0\06.TheatrPmotion.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\bin\Debug\netcoreapp2.0\06.TheatrPmotion.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\obj\Debug\netcoreapp2.0\06.TheatrPmotion.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\obj\Debug\netcoreapp2.0\06.TheatrPmotion.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\obj\Debug\netcoreapp2.0\06.TheatrPmotion.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\obj\Debug\netcoreapp2.0\06.TheatrPmotion.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\obj\Debug\netcoreapp2.0\06.TheatrPmotion.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.TheatrPmotion\obj\Debug\netcoreapp2.0\06.TheatrPmotion.pdb

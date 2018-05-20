@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\bin\Debug\netcoreapp2.0\12.NumberChecker.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\bin\Debug\netcoreapp2.0\12.NumberChecker.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\bin\Debug\netcoreapp2.0\12.NumberChecker.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\bin\Debug\netcoreapp2.0\12.NumberChecker.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\bin\Debug\netcoreapp2.0\12.NumberChecker.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\obj\Debug\netcoreapp2.0\12.NumberChecker.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\obj\Debug\netcoreapp2.0\12.NumberChecker.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\obj\Debug\netcoreapp2.0\12.NumberChecker.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\obj\Debug\netcoreapp2.0\12.NumberChecker.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.NumberChecker\obj\Debug\netcoreapp2.0\12.NumberChecker.pdb

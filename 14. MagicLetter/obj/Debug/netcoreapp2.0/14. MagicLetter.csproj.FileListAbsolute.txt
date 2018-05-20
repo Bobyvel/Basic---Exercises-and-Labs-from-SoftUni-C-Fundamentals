@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\bin\Debug\netcoreapp2.0\14. MagicLetter.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\bin\Debug\netcoreapp2.0\14. MagicLetter.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\bin\Debug\netcoreapp2.0\14. MagicLetter.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\bin\Debug\netcoreapp2.0\14. MagicLetter.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\bin\Debug\netcoreapp2.0\14. MagicLetter.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\obj\Debug\netcoreapp2.0\14. MagicLetter.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\obj\Debug\netcoreapp2.0\14. MagicLetter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\obj\Debug\netcoreapp2.0\14. MagicLetter.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\obj\Debug\netcoreapp2.0\14. MagicLetter.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\obj\Debug\netcoreapp2.0\14. MagicLetter.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\14. MagicLetter\obj\Debug\netcoreapp2.0\14. MagicLetter.pdb

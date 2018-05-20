@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\bin\Debug\netcoreapp2.0\01.DebitCardNumber.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\bin\Debug\netcoreapp2.0\01.DebitCardNumber.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\bin\Debug\netcoreapp2.0\01.DebitCardNumber.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\bin\Debug\netcoreapp2.0\01.DebitCardNumber.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\bin\Debug\netcoreapp2.0\01.DebitCardNumber.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\obj\Debug\netcoreapp2.0\01.DebitCardNumber.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\obj\Debug\netcoreapp2.0\01.DebitCardNumber.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\obj\Debug\netcoreapp2.0\01.DebitCardNumber.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\obj\Debug\netcoreapp2.0\01.DebitCardNumber.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.DebitCardNumber\obj\Debug\netcoreapp2.0\01.DebitCardNumber.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\bin\Debug\netcoreapp2.0\04.PhotoGallery.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\bin\Debug\netcoreapp2.0\04.PhotoGallery.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\bin\Debug\netcoreapp2.0\04.PhotoGallery.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\bin\Debug\netcoreapp2.0\04.PhotoGallery.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\bin\Debug\netcoreapp2.0\04.PhotoGallery.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\obj\Debug\netcoreapp2.0\04.PhotoGallery.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\obj\Debug\netcoreapp2.0\04.PhotoGallery.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\obj\Debug\netcoreapp2.0\04.PhotoGallery.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\obj\Debug\netcoreapp2.0\04.PhotoGallery.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\obj\Debug\netcoreapp2.0\04.PhotoGallery.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.PhotoGallery\obj\Debug\netcoreapp2.0\04.PhotoGallery.pdb

@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\bin\Debug\netcoreapp2.0\02.RectangleArea.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\bin\Debug\netcoreapp2.0\02.RectangleArea.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\bin\Debug\netcoreapp2.0\02.RectangleArea.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\bin\Debug\netcoreapp2.0\02.RectangleArea.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\bin\Debug\netcoreapp2.0\02.RectangleArea.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\obj\Debug\netcoreapp2.0\02.RectangleArea.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\obj\Debug\netcoreapp2.0\02.RectangleArea.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\obj\Debug\netcoreapp2.0\02.RectangleArea.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\obj\Debug\netcoreapp2.0\02.RectangleArea.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.RectangleArea\obj\Debug\netcoreapp2.0\02.RectangleArea.pdb

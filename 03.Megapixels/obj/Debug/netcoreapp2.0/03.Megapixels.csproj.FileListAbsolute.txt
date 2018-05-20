@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\bin\Debug\netcoreapp2.0\03.Megapixels.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\bin\Debug\netcoreapp2.0\03.Megapixels.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\bin\Debug\netcoreapp2.0\03.Megapixels.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\bin\Debug\netcoreapp2.0\03.Megapixels.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\bin\Debug\netcoreapp2.0\03.Megapixels.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\obj\Debug\netcoreapp2.0\03.Megapixels.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\obj\Debug\netcoreapp2.0\03.Megapixels.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\obj\Debug\netcoreapp2.0\03.Megapixels.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\obj\Debug\netcoreapp2.0\03.Megapixels.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\03.Megapixels\obj\Debug\netcoreapp2.0\03.Megapixels.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06.DNASequences.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06.DNASequences.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06.DNASequences.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06.DNASequences.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\bin\Debug\netcoreapp2.0\06.DNASequences.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06.DNASequences.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06.DNASequences.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06.DNASequences.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06.DNASequences.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06.DNASequences.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06. DNA Sequences\obj\Debug\netcoreapp2.0\06.DNASequences.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\bin\Debug\netcoreapp2.0\08.SMSTyping.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\bin\Debug\netcoreapp2.0\08.SMSTyping.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\bin\Debug\netcoreapp2.0\08.SMSTyping.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\bin\Debug\netcoreapp2.0\08.SMSTyping.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\bin\Debug\netcoreapp2.0\08.SMSTyping.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\obj\Debug\netcoreapp2.0\08.SMSTyping.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\obj\Debug\netcoreapp2.0\08.SMSTyping.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\obj\Debug\netcoreapp2.0\08.SMSTyping.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\obj\Debug\netcoreapp2.0\08.SMSTyping.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\obj\Debug\netcoreapp2.0\08.SMSTyping.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SMSTyping\obj\Debug\netcoreapp2.0\08.SMSTyping.pdb

@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\bin\Debug\netcoreapp2.0\08.SumOddNumbers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\bin\Debug\netcoreapp2.0\08.SumOddNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\bin\Debug\netcoreapp2.0\08.SumOddNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\bin\Debug\netcoreapp2.0\08.SumOddNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\bin\Debug\netcoreapp2.0\08.SumOddNumbers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\obj\Debug\netcoreapp2.0\08.SumOddNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\obj\Debug\netcoreapp2.0\08.SumOddNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\obj\Debug\netcoreapp2.0\08.SumOddNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\obj\Debug\netcoreapp2.0\08.SumOddNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\08.SumOddNumbers\obj\Debug\netcoreapp2.0\08.SumOddNumbers.pdb

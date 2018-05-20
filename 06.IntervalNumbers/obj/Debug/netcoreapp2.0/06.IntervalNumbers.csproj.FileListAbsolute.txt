@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\bin\Debug\netcoreapp2.0\06.IntervalNumbers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\bin\Debug\netcoreapp2.0\06.IntervalNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\bin\Debug\netcoreapp2.0\06.IntervalNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\bin\Debug\netcoreapp2.0\06.IntervalNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\bin\Debug\netcoreapp2.0\06.IntervalNumbers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\obj\Debug\netcoreapp2.0\06.IntervalNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\obj\Debug\netcoreapp2.0\06.IntervalNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\obj\Debug\netcoreapp2.0\06.IntervalNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\obj\Debug\netcoreapp2.0\06.IntervalNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\06.IntervalNumbers\obj\Debug\netcoreapp2.0\06.IntervalNumbers.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\bin\Debug\netcoreapp2.0\07.DivisibleBy3.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\bin\Debug\netcoreapp2.0\07.DivisibleBy3.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\bin\Debug\netcoreapp2.0\07.DivisibleBy3.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\bin\Debug\netcoreapp2.0\07.DivisibleBy3.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\bin\Debug\netcoreapp2.0\07.DivisibleBy3.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\obj\Debug\netcoreapp2.0\07.DivisibleBy3.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\obj\Debug\netcoreapp2.0\07.DivisibleBy3.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\obj\Debug\netcoreapp2.0\07.DivisibleBy3.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\obj\Debug\netcoreapp2.0\07.DivisibleBy3.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\obj\Debug\netcoreapp2.0\07.DivisibleBy3.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.DivisibleBy3\obj\Debug\netcoreapp2.0\07.DivisibleBy3.pdb

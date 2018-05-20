@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\bin\Debug\netcoreapp2.0\01.Greeting.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\bin\Debug\netcoreapp2.0\01.Greeting.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\bin\Debug\netcoreapp2.0\01.Greeting.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\bin\Debug\netcoreapp2.0\01.Greeting.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\bin\Debug\netcoreapp2.0\01.Greeting.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\obj\Debug\netcoreapp2.0\01.Greeting.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\obj\Debug\netcoreapp2.0\01.Greeting.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\obj\Debug\netcoreapp2.0\01.Greeting.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\obj\Debug\netcoreapp2.0\01.Greeting.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\obj\Debug\netcoreapp2.0\01.Greeting.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.Greeting\obj\Debug\netcoreapp2.0\01.Greeting.pdb

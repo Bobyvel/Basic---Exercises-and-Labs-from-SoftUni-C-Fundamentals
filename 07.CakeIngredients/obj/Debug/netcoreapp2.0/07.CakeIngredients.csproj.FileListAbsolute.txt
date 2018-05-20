@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\bin\Debug\netcoreapp2.0\07.CakeIngredients.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\bin\Debug\netcoreapp2.0\07.CakeIngredients.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\bin\Debug\netcoreapp2.0\07.CakeIngredients.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\bin\Debug\netcoreapp2.0\07.CakeIngredients.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\bin\Debug\netcoreapp2.0\07.CakeIngredients.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\obj\Debug\netcoreapp2.0\07.CakeIngredients.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\obj\Debug\netcoreapp2.0\07.CakeIngredients.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\obj\Debug\netcoreapp2.0\07.CakeIngredients.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\obj\Debug\netcoreapp2.0\07.CakeIngredients.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\obj\Debug\netcoreapp2.0\07.CakeIngredients.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.CakeIngredients\obj\Debug\netcoreapp2.0\07.CakeIngredients.pdb

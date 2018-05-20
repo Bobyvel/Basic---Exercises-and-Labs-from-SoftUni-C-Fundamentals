@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.pdb

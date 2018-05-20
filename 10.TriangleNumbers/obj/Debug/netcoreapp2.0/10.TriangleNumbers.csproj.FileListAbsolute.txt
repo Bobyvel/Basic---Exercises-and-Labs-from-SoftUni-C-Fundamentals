@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\bin\Debug\netcoreapp2.0\10.TriangleNumbers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\bin\Debug\netcoreapp2.0\10.TriangleNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\bin\Debug\netcoreapp2.0\10.TriangleNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\bin\Debug\netcoreapp2.0\10.TriangleNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\bin\Debug\netcoreapp2.0\10.TriangleNumbers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\obj\Debug\netcoreapp2.0\10.TriangleNumbers.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\obj\Debug\netcoreapp2.0\10.TriangleNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\obj\Debug\netcoreapp2.0\10.TriangleNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\obj\Debug\netcoreapp2.0\10.TriangleNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\obj\Debug\netcoreapp2.0\10.TriangleNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\10.TriangleNumbers\obj\Debug\netcoreapp2.0\10.TriangleNumbers.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\bin\Debug\netcoreapp2.0\02.VaporStore.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\bin\Debug\netcoreapp2.0\02.VaporStore.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\bin\Debug\netcoreapp2.0\02.VaporStore.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\bin\Debug\netcoreapp2.0\02.VaporStore.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\bin\Debug\netcoreapp2.0\02.VaporStore.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\obj\Debug\netcoreapp2.0\02.VaporStore.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\obj\Debug\netcoreapp2.0\02.VaporStore.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\obj\Debug\netcoreapp2.0\02.VaporStore.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\obj\Debug\netcoreapp2.0\02.VaporStore.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\obj\Debug\netcoreapp2.0\02.VaporStore.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.VaporStore\obj\Debug\netcoreapp2.0\02.VaporStore.pdb

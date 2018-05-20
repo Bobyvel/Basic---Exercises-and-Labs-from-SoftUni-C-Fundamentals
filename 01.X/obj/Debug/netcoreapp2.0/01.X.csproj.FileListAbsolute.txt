@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\bin\Debug\netcoreapp2.0\01.X.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\bin\Debug\netcoreapp2.0\01.X.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\bin\Debug\netcoreapp2.0\01.X.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\bin\Debug\netcoreapp2.0\01.X.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\bin\Debug\netcoreapp2.0\01.X.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\obj\Debug\netcoreapp2.0\01.X.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\obj\Debug\netcoreapp2.0\01.X.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\obj\Debug\netcoreapp2.0\01.X.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\obj\Debug\netcoreapp2.0\01.X.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\01.X\obj\Debug\netcoreapp2.0\01.X.pdb

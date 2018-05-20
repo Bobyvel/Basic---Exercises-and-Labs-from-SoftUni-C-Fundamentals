@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\bin\Debug\netcoreapp2.0\05.CharacterStats.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\bin\Debug\netcoreapp2.0\05.CharacterStats.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\bin\Debug\netcoreapp2.0\05.CharacterStats.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\bin\Debug\netcoreapp2.0\05.CharacterStats.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\bin\Debug\netcoreapp2.0\05.CharacterStats.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\obj\Debug\netcoreapp2.0\05.CharacterStats.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\obj\Debug\netcoreapp2.0\05.CharacterStats.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\obj\Debug\netcoreapp2.0\05.CharacterStats.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\obj\Debug\netcoreapp2.0\05.CharacterStats.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\05.CharacterStats\obj\Debug\netcoreapp2.0\05.CharacterStats.pdb

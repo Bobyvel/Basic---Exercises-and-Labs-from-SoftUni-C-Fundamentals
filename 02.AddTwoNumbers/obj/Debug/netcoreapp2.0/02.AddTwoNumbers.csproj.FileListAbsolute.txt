@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\bin\Debug\netcoreapp2.0\07.TrainingHallEquipment.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\bin\Debug\netcoreapp2.0\07.TrainingHallEquipment.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\bin\Debug\netcoreapp2.0\07.TrainingHallEquipment.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\bin\Debug\netcoreapp2.0\07.TrainingHallEquipment.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\bin\Debug\netcoreapp2.0\07.TrainingHallEquipment.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\obj\Debug\netcoreapp2.0\07.TrainingHallEquipment.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\obj\Debug\netcoreapp2.0\07.TrainingHallEquipment.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\obj\Debug\netcoreapp2.0\07.TrainingHallEquipment.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\obj\Debug\netcoreapp2.0\07.TrainingHallEquipment.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\obj\Debug\netcoreapp2.0\07.TrainingHallEquipment.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\07.TrainingHallEquipment\obj\Debug\netcoreapp2.0\07.TrainingHallEquipment.pdb

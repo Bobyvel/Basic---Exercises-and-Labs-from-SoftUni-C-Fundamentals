@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\bin\Debug\netcoreapp2.0\04.MonthPrinter.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\bin\Debug\netcoreapp2.0\04.MonthPrinter.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\bin\Debug\netcoreapp2.0\04.MonthPrinter.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\bin\Debug\netcoreapp2.0\04.MonthPrinter.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\bin\Debug\netcoreapp2.0\04.MonthPrinter.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\obj\Debug\netcoreapp2.0\04.MonthPrinter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\obj\Debug\netcoreapp2.0\04.MonthPrinter.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\obj\Debug\netcoreapp2.0\04.MonthPrinter.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\obj\Debug\netcoreapp2.0\04.MonthPrinter.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\04.MonthPrinter\obj\Debug\netcoreapp2.0\04.MonthPrinter.pdb

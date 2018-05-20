@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\bin\Debug\netcoreapp2.0\12.TestNumbers.deps.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\bin\Debug\netcoreapp2.0\12.TestNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\bin\Debug\netcoreapp2.0\12.TestNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\bin\Debug\netcoreapp2.0\12.TestNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\bin\Debug\netcoreapp2.0\12.TestNumbers.pdb
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\obj\Debug\netcoreapp2.0\12.TestNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\obj\Debug\netcoreapp2.0\12.TestNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\obj\Debug\netcoreapp2.0\12.TestNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\obj\Debug\netcoreapp2.0\12.TestNumbers.dll
+E:\Programing\MyExerciseC#\ProgrFundamentalsExercises\12.TestNumbers\obj\Debug\netcoreapp2.0\12.TestNumbers.pdb
